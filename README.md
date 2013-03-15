@@ -1,4 +1,8 @@
-Project
+Class example
 =======
 
-group project
+Using Git
+
+#header
+
+##smaller header
